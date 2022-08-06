@@ -1,0 +1,1 @@
+{"name":"Local: binarySearch","url":"/home/hrithik-gavankar/Hrithik/CODE_PRAC/binarySearch.cpp","tests":[{"id":1631629124659,"input":"5\n4\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrithik-gavankar/Hrithik/CODE_PRAC/binarySearch.cpp","group":"local","local":true}

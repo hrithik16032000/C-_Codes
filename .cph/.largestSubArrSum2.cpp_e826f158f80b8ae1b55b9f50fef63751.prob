@@ -1,0 +1,1 @@
+{"name":"Local: largestSubArrSum2","url":"/home/hrithik-gavankar/Hrithik/CODE_PRAC/largestSubArrSum2.cpp","tests":[{"id":1631639538348,"input":"9\n-2 3 4 -1 5 -12 6 1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrithik-gavankar/Hrithik/CODE_PRAC/largestSubArrSum2.cpp","group":"local","local":true}
